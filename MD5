@@ -1,0 +1,10 @@
+89867b50e5391f8dbea4311431515ec0 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+a291997a8b27caabb1baeeadf9639eef *R/farsi.R
+46fda2faef35f6548f31a356d3be0779 *man/Ops.farsi.Rd
+a2ebd66ba12541f60c5e1fb127c64758 *man/as.character.farsi.Rd
+6b78ef15628a66a5c464de9ae41c93c8 *man/as.farsi.Rd
+5e1d220cb84f5ecda2f10fbe8a77900c *man/as.numeric.farsi.Rd
+ce6d5d9599b9d35f8952438c9e11456d *man/farsi-package.Rd
+7d6eef8faf4dcc5e83059b50eecab5ae *man/print.farsi.Rd
+b4754c33c4fe110c373e0c981a6d7686 *man/sort.farsi.Rd
